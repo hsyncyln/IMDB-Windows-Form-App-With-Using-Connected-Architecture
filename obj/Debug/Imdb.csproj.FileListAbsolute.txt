@@ -1,0 +1,12 @@
+C:\Users\samet\source\repos\Imdb\obj\Debug\Imdb.csprojAssemblyReference.cache
+C:\Users\samet\source\repos\Imdb\obj\Debug\Imdb.FormCast.resources
+C:\Users\samet\source\repos\Imdb\obj\Debug\Imdb.FormMain.resources
+C:\Users\samet\source\repos\Imdb\obj\Debug\Imdb.FormMovie.resources
+C:\Users\samet\source\repos\Imdb\obj\Debug\Imdb.Properties.Resources.resources
+C:\Users\samet\source\repos\Imdb\obj\Debug\Imdb.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\Imdb\obj\Debug\Imdb.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\Imdb\bin\Debug\Imdb.exe.config
+C:\Users\samet\source\repos\Imdb\bin\Debug\Imdb.exe
+C:\Users\samet\source\repos\Imdb\bin\Debug\Imdb.pdb
+C:\Users\samet\source\repos\Imdb\obj\Debug\Imdb.exe
+C:\Users\samet\source\repos\Imdb\obj\Debug\Imdb.pdb
